@@ -45,7 +45,7 @@ a {
 }
 
 .hero {
-    padding: 60px;
+    padding: 0 60px;
     margin: 0;
     background-color: #1F2937;
     display: flex;
@@ -75,4 +75,22 @@ img {
     height: 200px;
     width: 400px;
     padding: 40px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    padding: 20px 60px;
+}
+
+.author {
+    font-style: normal;
+    font-weight: bold;
+    text-align: right;
+}
+
+p {
+    margin: 0;
 }
