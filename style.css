@@ -1,0 +1,19 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+header {
+    height: 80px;
+    padding: 0 60px; 
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+}
