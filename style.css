@@ -75,6 +75,7 @@ button {
     color: #F9FAF8;
     border-radius: 8px;
     border: 0;
+    cursor: pointer;
     padding: 8px 20px;
     margin: 12px 0s;
     font-weight: bold;
