@@ -15,6 +15,16 @@ header {
     gap: 20px;
 }
 
+footer {
+    color: #E5E7EB;
+    background-color: #1F2937;
+    font-size: 12px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .logo {
     font-size: 24px;
     color: #F9FAF8;
