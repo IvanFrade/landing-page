@@ -153,6 +153,7 @@ p {
     width: 170px;
     gap: 24px;
     align-items: center;
+    text-align: center;
 }
 
 .info-img {
